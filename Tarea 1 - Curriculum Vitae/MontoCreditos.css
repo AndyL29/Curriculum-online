@@ -1,0 +1,56 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.contenedor_Monto{
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+    padding: 60px;
+}
+
+.titulo_monto{
+    font-size: 40px;
+    color: chocolate;
+
+}
+
+.p_monto{
+    font-size: 27px;
+    margin-top: 40px;
+    color: chocolate;
+
+}
+
+#bodyy{
+    background-image: radial-gradient( circle farthest-corner at 92.3% 71.5%,  rgba(83,138,214,1) 0%, rgba(134,231,214,1) 90% );
+}
+
+#logo-itla{
+    width: 300px;
+    margin-top: -70px;
+}
+
+.p_creditos{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-style: oblique;   
+}
+
+.input_cantidad_creditos{
+    width: 120px;
+    height: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#calcular{
+    width: 90px;
+    height: 27px;
+    border-radius: 20px;
+
+}
+
+
+
